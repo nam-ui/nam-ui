@@ -5,8 +5,8 @@ Popular repositories
 
 
 # Personal Tiktok website 06/2020-08/2020
-- Backend: Nodejs VPS Server TypeScript Class [https://github.com/nam-ui/nodejs-api-modevideo/tree/dev/master] \n
-= FE(vuejs, vuex, vuetify): Website [https://videomod.pages.dev/]
+- Backend: Nodejs VPS Server TypeScript Class [https://github.com/nam-ui/nodejs-api-modevideo/tree/dev/master]
+- FE(vuejs, vuex, vuetify): Website [https://videomod.pages.dev/]
 
 # Personal Movie website 06/2020-08/2020
 - BE(graphql-api, node js, express, mongodb): https://github.com/nam-ui/NodeJS-BE__Movies-tixi
